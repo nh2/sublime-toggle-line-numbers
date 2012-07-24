@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Toggle Line Numbers",
+        "command": "toggle_line_numbers"
+    }
+]
